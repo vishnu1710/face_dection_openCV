@@ -10,4 +10,3 @@ class FaceDetector:
 
         return rects
 
-    
